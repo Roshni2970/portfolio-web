@@ -17,7 +17,7 @@ A basic personal portfolio website created using HTML and CSS.
 
 ## Project Structure
 
-├── portfolio.html
+├── index.html
 ├── contact.html
 ├── style.css
 └── README.md
